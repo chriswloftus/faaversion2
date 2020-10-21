@@ -1,3 +1,8 @@
+/**
+ * Represents the home page. Default template
+ * @author Chris Loftus
+ * @version 1
+ */
 package uk.ac.aber.dcs.cs31620.faa.ui.home
 
 import android.os.Bundle
